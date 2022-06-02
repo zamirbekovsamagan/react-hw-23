@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-hw-23/static/css/main.112e23d8.css",
+    "main.js": "/react-hw-23/static/js/main.ab3ddeb9.js",
+    "static/media/meals.jpg": "/react-hw-23/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/react-hw-23/index.html",
+    "main.112e23d8.css.map": "/react-hw-23/static/css/main.112e23d8.css.map",
+    "main.ab3ddeb9.js.map": "/react-hw-23/static/js/main.ab3ddeb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.112e23d8.css",
+    "static/js/main.ab3ddeb9.js"
+  ]
+}
